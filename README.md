@@ -44,10 +44,10 @@
     <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
   <a href="https://www.reactjs.org" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="ReactJS" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="ReactJS" width="60" height="40"/> 
   </a> 
   <a href="https://www.odoo.com" target="_blank"> 
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.odoo.com%2Ffr_FR%2Fpage%2Fbrand-assets&psig=AOvVaw3YogK32AeH2aM0wrGkAPQr&ust=1607935461968000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJCdmMLIyu0CFQAAAAAdAAAAABAD" alt="Odoo" width="40" height="40"/> 
+    <img src="https://odoocdn.com/openerp_website/static/src/img/assets/png/odoo_logo.png?a=b" alt="Odoo" width="40" height="40"/> 
   </a> 
 </p>
 
