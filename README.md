@@ -2,7 +2,7 @@
 <h3 align="center">A Full stack developer and ERP integrator</h3>
 
 
-#### About Me
+### About Me
 
 - 🔭 I’m currently working on Odoo Integration and E-commerce system
 - 🌱 I’m currently learning Jenkins for CD / CI
@@ -12,7 +12,7 @@
 - 📫 How to reach me: <a href="mailto:stephcyril.sc@gmail.com">email</a>
 
 
-#### Activities
+### Activities
 
 <a href="https://github.com/stephcyrille/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephcyrille&layout=compact&theme=omni&hide=html,css" alt="Stephcyrille's most used languages" />
@@ -22,18 +22,16 @@
 </a>
 
 
-#### Wanna say hi?
+### Wanna say hi?
 
 <p align="left">
-<h3 align="left">Connect with me</h3>
 <a href="https://fb.com/stephane.mebenga" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Stephane Mebenga" height="30" width="40" /></a>
 <a href="https://twitter.com/steph_cyrille" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Stephane Mebenga" height="30" width="40" /></a>
 </p>
 
 
-#### My Skills 
+### My Skills 
 
-<h3 align="left">Languages and Tools</h3>
 <p align="left"> 
   <a href="https://getbootstrap.com" target="_blank"  style="margin-right: 10px"> 
     <img src="https://raw.githubusercontent.com/stephcyrille/stephcyrille/main/bootstrap-4.svg" alt="bootstrap" width="40" height="40"/> 
