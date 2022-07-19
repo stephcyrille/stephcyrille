@@ -1,6 +1,9 @@
 <h1 align="center"> Hi there 👋, I'm Stephane Cyrille Mebenga Atanga</h1>
 <h3 align="center">A Full stack developer and ERP integrator</h3>
 
+
+#### About Me
+
 - 🔭 I’m currently working on Odoo Integration and E-commerce system
 - 🌱 I’m currently learning Jenkins for CD / CI
 - 👯 I’m looking to collaborate on Django projects and ReactJS
@@ -8,11 +11,27 @@
 - 💬 Ask me about Frontend, Backends and ERP integrations
 - 📫 How to reach me: <a href="mailto:stephcyril.sc@gmail.com">email</a>
 
+
+#### Activities
+
+<a href="https://github.com/stephcyrille/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephcyrille&layout=compact&theme=omni&hide=html,css" alt="Stephcyrille's most used languages" />
+</a>
+<a href="https://github.com/stephcyrille/">
+  <img align="center" height=170 width=450 src="https://github-readme-stats.vercel.app/api?username=stephcyrille&show_icons=true&theme=omni&count_private=true&include_all_commits=true" alt="Stephcyrille Stats" />
+</a>
+
+
+#### Wanna say hi?
+
 <p align="left">
 <h3 align="left">Connect with me</h3>
 <a href="https://fb.com/stephane.mebenga" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Stephane Mebenga" height="30" width="40" /></a>
 <a href="https://twitter.com/steph_cyrille" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Stephane Mebenga" height="30" width="40" /></a>
 </p>
+
+
+#### My Skills 
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left"> 
