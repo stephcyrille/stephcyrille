@@ -1,14 +1,15 @@
 <h1 align="center"> Hi there 👋, I'm Stephane Cyrille Mebenga Atanga</h1>
-<h3 align="center">A Full stack developer and ERP integrator</h3>
+<h3 align="center">A sofware Engineer working on ML and Odoo ERP integration</h3>
 
 
 ### About Me
 
-- 🔭 I’m currently working on Odoo Integration and E-commerce system
-- 🌱 I’m currently learning Jenkins for CD / CI
-- 👯 I’m looking to collaborate on Django projects and ReactJS
-- 🤔 I’m looking for help with Odoo and Docker containerization
-- 💬 Ask me about Frontend, Backends and ERP integrations
+- 🔭 I’m currently working on Odoo SFA Module with Flutter Frontend Integration 
+- 🌱 I’m currently Writing some article about Data Collection with Web Scrapping
+- :chart_with_upwards_trend: I'm making some Analysis (data and statistical) and create Data Pipeline  
+- 👯 I’m looking to collaborate in ML projects and training some new models
+- 🤔 I’m looking for help with Deep Learning Natural Neural Network
+- 💬 Ask me about Frontend, Backends, ERP integrations and Data Processing 
 - 📫 How to reach me: <a href="mailto:stephcyril.sc@gmail.com">email</a>
 
 
@@ -25,7 +26,7 @@
 ### Wanna say hi?
 
 <p align="left">
-<a href="https://fb.com/stephane.mebenga" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Stephane Mebenga" height="30" width="40" /></a>
+<!-- <a href="https://fb.com/stephane.mebenga" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Stephane Mebenga" height="30" width="40" /></a> -->
 <a href="https://twitter.com/steph_cyrille" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Stephane Mebenga" height="30" width="40" /></a>
 </p>
 
